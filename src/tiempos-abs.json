@@ -1,0 +1,498 @@
+{
+ "audio": "abs/voz.wav",
+ "duracion": 20.76,
+ "frases": [
+  {
+   "texto": "Frenas fuerte, y tu pedal empieza a vibrar.",
+   "dibujo": null,
+   "palabraClave": "vibrar.",
+   "indiceClave": 7,
+   "inicioClave": 1.88,
+   "inicio": 0,
+   "fin": 2.24,
+   "palabras": [
+    {
+     "texto": "Frenas",
+     "inicio": 0,
+     "fin": 0.44
+    },
+    {
+     "texto": "fuerte,",
+     "inicio": 0.44,
+     "fin": 0.7
+    },
+    {
+     "texto": "y",
+     "inicio": 0.7,
+     "fin": 1.02
+    },
+    {
+     "texto": "tu",
+     "inicio": 1.02,
+     "fin": 1.14
+    },
+    {
+     "texto": "pedal",
+     "inicio": 1.14,
+     "fin": 1.34
+    },
+    {
+     "texto": "empieza",
+     "inicio": 1.34,
+     "fin": 1.64
+    },
+    {
+     "texto": "a",
+     "inicio": 1.64,
+     "fin": 1.88
+    },
+    {
+     "texto": "vibrar.",
+     "inicio": 1.88,
+     "fin": 2.24,
+     "clave": 1
+    }
+   ]
+  },
+  {
+   "texto": "No está roto: te está salvando la vida.",
+   "dibujo": null,
+   "palabraClave": "No",
+   "indiceClave": 0,
+   "inicioClave": 2.4,
+   "inicio": 2.4,
+   "fin": 4.26,
+   "palabras": [
+    {
+     "texto": "No",
+     "inicio": 2.4,
+     "fin": 2.48
+    },
+    {
+     "texto": "está",
+     "inicio": 2.48,
+     "fin": 2.7
+    },
+    {
+     "texto": "roto:",
+     "inicio": 2.7,
+     "fin": 3.12
+    },
+    {
+     "texto": "te",
+     "inicio": 3.2,
+     "fin": 3.32
+    },
+    {
+     "texto": "está",
+     "inicio": 3.32,
+     "fin": 3.54
+    },
+    {
+     "texto": "salvando",
+     "inicio": 3.54,
+     "fin": 3.96
+    },
+    {
+     "texto": "la",
+     "inicio": 3.96,
+     "fin": 4.06
+    },
+    {
+     "texto": "vida.",
+     "inicio": 4.06,
+     "fin": 4.26
+    }
+   ]
+  },
+  {
+   "texto": "Sin ABS, la rueda se bloquea y patina.",
+   "dibujo": null,
+   "palabraClave": "bloquea",
+   "indiceClave": 5,
+   "inicioClave": 5.86,
+   "inicio": 4.52,
+   "fin": 6.72,
+   "palabras": [
+    {
+     "texto": "Sin",
+     "inicio": 4.52,
+     "fin": 4.66
+    },
+    {
+     "texto": "ABS,",
+     "inicio": 4.66,
+     "fin": 4.94
+    },
+    {
+     "texto": "la",
+     "inicio": 5.36,
+     "fin": 5.48
+    },
+    {
+     "texto": "rueda",
+     "inicio": 5.48,
+     "fin": 5.72
+    },
+    {
+     "texto": "se",
+     "inicio": 5.72,
+     "fin": 5.86
+    },
+    {
+     "texto": "bloquea",
+     "inicio": 5.86,
+     "fin": 6.26,
+     "clave": 2
+    },
+    {
+     "texto": "y",
+     "inicio": 6.26,
+     "fin": 6.34
+    },
+    {
+     "texto": "patina.",
+     "inicio": 6.34,
+     "fin": 6.72
+    }
+   ]
+  },
+  {
+   "texto": "Y una rueda que patina no puede girar: tu coche sigue recto.",
+   "dibujo": null,
+   "palabraClave": "Y",
+   "indiceClave": 0,
+   "inicioClave": 6.72,
+   "inicio": 6.72,
+   "fin": 9.8,
+   "palabras": [
+    {
+     "texto": "Y",
+     "inicio": 6.72,
+     "fin": 6.96
+    },
+    {
+     "texto": "una",
+     "inicio": 6.96,
+     "fin": 7.12
+    },
+    {
+     "texto": "rueda",
+     "inicio": 7.12,
+     "fin": 7.38
+    },
+    {
+     "texto": "que",
+     "inicio": 7.38,
+     "fin": 7.48
+    },
+    {
+     "texto": "patina",
+     "inicio": 7.48,
+     "fin": 7.86
+    },
+    {
+     "texto": "no",
+     "inicio": 7.86,
+     "fin": 8
+    },
+    {
+     "texto": "puede",
+     "inicio": 8,
+     "fin": 8.24
+    },
+    {
+     "texto": "girar:",
+     "inicio": 8.24,
+     "fin": 8.6
+    },
+    {
+     "texto": "tu",
+     "inicio": 8.7,
+     "fin": 8.8
+    },
+    {
+     "texto": "coche",
+     "inicio": 8.8,
+     "fin": 9.1
+    },
+    {
+     "texto": "sigue",
+     "inicio": 9.1,
+     "fin": 9.34
+    },
+    {
+     "texto": "recto.",
+     "inicio": 9.34,
+     "fin": 9.8
+    }
+   ]
+  },
+  {
+   "texto": "El ABS suelta el freno y lo vuelve a apretar más de diez veces por segundo.",
+   "dibujo": null,
+   "palabraClave": "diez",
+   "indiceClave": 12,
+   "inicioClave": 12.34,
+   "inicio": 9.92,
+   "fin": 13.4,
+   "palabras": [
+    {
+     "texto": "El",
+     "inicio": 9.92,
+     "fin": 10
+    },
+    {
+     "texto": "ABS",
+     "inicio": 10,
+     "fin": 10.24
+    },
+    {
+     "texto": "suelta",
+     "inicio": 10.48,
+     "fin": 10.74
+    },
+    {
+     "texto": "el",
+     "inicio": 10.74,
+     "fin": 10.82
+    },
+    {
+     "texto": "freno",
+     "inicio": 10.82,
+     "fin": 11.18
+    },
+    {
+     "texto": "y",
+     "inicio": 11.18,
+     "fin": 11.28
+    },
+    {
+     "texto": "lo",
+     "inicio": 11.28,
+     "fin": 11.38
+    },
+    {
+     "texto": "vuelve",
+     "inicio": 11.38,
+     "fin": 11.62
+    },
+    {
+     "texto": "a",
+     "inicio": 11.62,
+     "fin": 11.7
+    },
+    {
+     "texto": "apretar",
+     "inicio": 11.7,
+     "fin": 12.02
+    },
+    {
+     "texto": "más",
+     "inicio": 12.02,
+     "fin": 12.16
+    },
+    {
+     "texto": "de",
+     "inicio": 12.16,
+     "fin": 12.34
+    },
+    {
+     "texto": "diez",
+     "inicio": 12.34,
+     "fin": 12.54,
+     "clave": 3
+    },
+    {
+     "texto": "veces",
+     "inicio": 12.54,
+     "fin": 12.84
+    },
+    {
+     "texto": "por",
+     "inicio": 12.84,
+     "fin": 13.04
+    },
+    {
+     "texto": "segundo.",
+     "inicio": 13.04,
+     "fin": 13.4
+    }
+   ]
+  },
+  {
+   "texto": "Cada golpe que notas en el pie es eso.",
+   "dibujo": null,
+   "palabraClave": "Cada",
+   "indiceClave": 0,
+   "inicioClave": 13.58,
+   "inicio": 13.58,
+   "fin": 15.32,
+   "palabras": [
+    {
+     "texto": "Cada",
+     "inicio": 13.58,
+     "fin": 13.74
+    },
+    {
+     "texto": "golpe",
+     "inicio": 13.74,
+     "fin": 14
+    },
+    {
+     "texto": "que",
+     "inicio": 14,
+     "fin": 14.18
+    },
+    {
+     "texto": "notas",
+     "inicio": 14.18,
+     "fin": 14.52
+    },
+    {
+     "texto": "en",
+     "inicio": 14.52,
+     "fin": 14.62
+    },
+    {
+     "texto": "el",
+     "inicio": 14.62,
+     "fin": 14.7
+    },
+    {
+     "texto": "pie",
+     "inicio": 14.7,
+     "fin": 14.9
+    },
+    {
+     "texto": "es",
+     "inicio": 14.9,
+     "fin": 15.08
+    },
+    {
+     "texto": "eso.",
+     "inicio": 15.08,
+     "fin": 15.32
+    }
+   ]
+  },
+  {
+   "texto": "Así la rueda sigue girando, y tú puedes esquivar.",
+   "dibujo": null,
+   "palabraClave": "esquivar.",
+   "indiceClave": 8,
+   "inicioClave": 17.5,
+   "inicio": 15.5,
+   "fin": 18,
+   "palabras": [
+    {
+     "texto": "Así",
+     "inicio": 15.5,
+     "fin": 15.68
+    },
+    {
+     "texto": "la",
+     "inicio": 15.68,
+     "fin": 15.82
+    },
+    {
+     "texto": "rueda",
+     "inicio": 15.82,
+     "fin": 16.12
+    },
+    {
+     "texto": "sigue",
+     "inicio": 16.12,
+     "fin": 16.34
+    },
+    {
+     "texto": "girando,",
+     "inicio": 16.34,
+     "fin": 16.82
+    },
+    {
+     "texto": "y",
+     "inicio": 16.82,
+     "fin": 17.08
+    },
+    {
+     "texto": "tú",
+     "inicio": 17.08,
+     "fin": 17.22
+    },
+    {
+     "texto": "puedes",
+     "inicio": 17.22,
+     "fin": 17.5
+    },
+    {
+     "texto": "esquivar.",
+     "inicio": 17.5,
+     "fin": 18,
+     "clave": 4
+    }
+   ]
+  },
+  {
+   "texto": "Por eso, si vibra, no lo sueltes: písalo a fondo.",
+   "dibujo": null,
+   "palabraClave": "Por",
+   "indiceClave": 0,
+   "inicioClave": 18.08,
+   "inicio": 18.08,
+   "fin": 20.76,
+   "palabras": [
+    {
+     "texto": "Por",
+     "inicio": 18.08,
+     "fin": 18.2
+    },
+    {
+     "texto": "eso,",
+     "inicio": 18.2,
+     "fin": 18.42
+    },
+    {
+     "texto": "si",
+     "inicio": 18.66,
+     "fin": 18.78
+    },
+    {
+     "texto": "vibra,",
+     "inicio": 18.78,
+     "fin": 19.16
+    },
+    {
+     "texto": "no",
+     "inicio": 19.32,
+     "fin": 19.44
+    },
+    {
+     "texto": "lo",
+     "inicio": 19.44,
+     "fin": 19.54
+    },
+    {
+     "texto": "sueltes:",
+     "inicio": 19.54,
+     "fin": 20.04
+    },
+    {
+     "texto": "písalo",
+     "inicio": 20.14,
+     "fin": 20.52
+    },
+    {
+     "texto": "a",
+     "inicio": 20.52,
+     "fin": 20.58
+    },
+    {
+     "texto": "fondo.",
+     "inicio": 20.58,
+     "fin": 20.76
+    }
+   ]
+  }
+ ]
+}

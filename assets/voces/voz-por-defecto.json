@@ -1,0 +1,9 @@
+{
+ "motor": "edge-tts",
+ "voz": "it-IT-GiuseppeMultilingualNeural",
+ "velocidad": "+8%",
+ "pausaMaxima": 0.35,
+ "lufs": -14,
+ "alternativas": ["en-US-AndrewMultilingualNeural", "en-US-BrianMultilingualNeural"],
+ "viaOficial": "Azure Speech, plan gratuito F0 (500.000 caracteres/mes), misma voz"
+}

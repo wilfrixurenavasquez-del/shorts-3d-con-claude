@@ -1,0 +1,30 @@
+{
+  "name": "shorts-3d-con-claude",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plantilla gratis de SOY FRIX: Shorts verticales en 3D (three.js + Remotion) hechos con Claude Code, sin saber programar.",
+  "scripts": {
+    "preview": "remotion studio",
+    "voz:abs": "node scripts/voz-gratis.mjs guiones/abs.txt --salida=public/abs/voz.wav --pausas=0.14 --velocidad=+12% && python scripts/transcribir.py public/abs/voz.wav public/abs/whisper.json small && node scripts/tiempos-whisper.mjs guiones/abs.txt public/abs/whisper.json --audio=abs/voz.wav",
+    "exportar:abs": "remotion render Abs out/abs.mp4 --codec=h264 --audio-codec=aac --pixel-format=yuv420p --gl=angle",
+    "portada:abs": "remotion still PortadaAbs out/portada-abs.png --gl=angle",
+    "errores": "tsc -p ."
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.3.0",
+    "@react-three/postprocessing": "3.0.4",
+    "@remotion/cli": "4.0.536",
+    "@remotion/three": "4.0.536",
+    "@types/three": "0.178.1",
+    "postprocessing": "6.37.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "4.0.536",
+    "three": "0.178.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
