@@ -13,7 +13,7 @@ Viene con un ejemplo completo (el del ABS) y con las reglas que he aprendido, pa
 2. Abre Claude → pestaña **Code** → elige esta carpeta.
 3. Pega este mensaje:
 
-> Lee CLAUDE.md y LEEME.md. Yo no sé programar: explícame todo en español sencillo y pídeme permiso antes de instalar nada.
+> Lee CLAUDE.md y README.md. Yo no sé programar: explícame todo en español sencillo y pídeme permiso antes de instalar nada.
 > Primero instala lo necesario y ábreme la vista previa del vídeo del ABS para ver que funciona.
 > Después quiero hacer un Short nuevo que explique por qué [TU PREGUNTA]. Comprueba cada dato en internet antes de usarlo.
 

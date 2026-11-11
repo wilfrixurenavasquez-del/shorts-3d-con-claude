@@ -2,7 +2,7 @@
 // Fórmula del cinturón y el airbag (los Shorts más vistos de SOY FRIX): 1.er fotograma reconocible (pie pisando
 // el pedal) + pregunta grande, ~21 s, rayos X de la rueda, comparación sin ABS / con ABS y final en bucle.
 // Guion: guiones/abs.txt · Voz: public/abs/voz.wav · Tiempos: src/tiempos-abs.json · Render con --gl=angle.
-// Los sonidos son opcionales: si un archivo no está en public/abs/, simplemente no suena (ver LEEME.md).
+// Los sonidos son opcionales: si un archivo no está en public/abs/, simplemente no suena (ver README.md).
 import React from "react";
 import * as THREE from "three";
 import { AbsoluteFill, Audio, Sequence, getStaticFiles, interpolate, spring, staticFile, useCurrentFrame } from "remotion";
